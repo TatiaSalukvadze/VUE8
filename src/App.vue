@@ -50,7 +50,7 @@ export default{
 
 }
 
-// export default {
+// export default {//Option API
 //   data() {
 //     return {
 //       availableFunds: 100,
